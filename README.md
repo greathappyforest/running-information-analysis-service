@@ -37,7 +37,6 @@ docker start running_information_analysis_db
 ### Stop docker container
 ```
 docker stop running_information_analysis_db 
-docker stop running_information_analysis_db 
 ```
 ### check docker process
 ```
