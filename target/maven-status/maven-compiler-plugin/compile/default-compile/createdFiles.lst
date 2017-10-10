@@ -1,7 +1,0 @@
-hw1/domain/RunningInformation.class
-hw1/domain/RunningInfoRepository.class
-hw1/service/impl/RunningInfoServiceImpl.class
-hw1/rest/RunningInfoRestController.class
-hw1/domain/UserInfo.class
-hw1/RunningInformationAnalysisServiceApplication.class
-hw1/service/RunningInfoService.class
